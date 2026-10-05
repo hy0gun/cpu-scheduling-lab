@@ -33,6 +33,3 @@ experiment.py runs a fixed four-job workload at quantum values 1-8 and writes qu
 
 ## Limits
 Single CPU; no I/O blocking, priorities, preemption in SJF, or switching cost. Text input must contain ordinary integers in the documented range. This is a simulation, not operating-system scheduling code. Output paths should be separate from input paths, including aliases/symlinks.
-
-## Your contributions
-Generated implementation. Record your own changes and verification here.
